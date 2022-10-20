@@ -44,3 +44,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shirayasha&theme=tokyonight&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shirayasha)](https://github.com/Shirayasha/github-readme-stats)
+
+  ### :black_joker: Joke
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  ### :infinity: quotes of the great and not the great
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
